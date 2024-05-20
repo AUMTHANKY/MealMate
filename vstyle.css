@@ -1,0 +1,1 @@
+$q="insert into lunch(CName,Name,Mobile_No,Address,Bread,Subji1,Subji2,Rice,Dal,Accesories) VALUES ('".$_POST['CName']."','".$_POST['Name']."','".$_POST['Mobile_No']."','".$_POST['Address']."','".$_POST['Bread']."','".$_POST['Subji1']."','".$_POST['Subji2']."','".$_POST['Rice']."','".$_POST['Dal']."','".$_POST['Accesories']."')";
